@@ -1,0 +1,25 @@
+form {
+
+  border: 1px solid blue;
+  /*max-width: 75%;*/
+  margin-right: auto;
+  margin-left: auto;
+}  
+
+/*.center-inputs { 
+
+text-align: right;
+
+}*/
+
+.inner-form { 
+  border: 1px solid red;
+  max-width: 50%;
+  text-align: right;
+  /*background-color: gray;*/
+}
+
+label, input { 
+  margin: 10px;
+
+}
