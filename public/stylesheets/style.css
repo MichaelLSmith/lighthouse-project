@@ -82,9 +82,11 @@ a {
 /* 1.4 Profile CSS */
 
 .profile-pic {
-	border: 1px solid #522508;
-	height: 45px;
-	width: 50px;
+  border: 1px solid #522508;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  float: left;
 }
 
 /* 1.5 Universal CSS */
